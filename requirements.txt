@@ -1,0 +1,7 @@
+tensorflow
+tfx
+keras
+pandas
+numpy
+matplotlib
+seaborn
